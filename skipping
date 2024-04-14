@@ -1,0 +1,30 @@
+[33mcommit 84929ccde79d922940a60f4a87915fbef3830fde[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/bug2[m[33m, [m[1;32mbug2[m[33m)[m
+Author: 0margarita0 <165337182+0margarita0@users.noreply.github.com>
+Date:   Sun Apr 14 22:57:49 2024 +0200
+
+     Call method makeBigStringFrom in main class
+     Conflict Solved
+
+[33mcommit 0d4a116efa6193836a8caf6a240e26c5081a953f[m
+Author: 0margarita0 <165337182+0margarita0@users.noreply.github.com>
+Date:   Sun Apr 14 22:47:00 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+[33mcommit f681913df1b3fa8a8e9dd13c0f405611b2cdbd80[m[33m ([m[1;31morigin/bug1[m[33m, [m[1;32mbug1[m[33m)[m
+Author: 0margarita0 <165337182+0margarita0@users.noreply.github.com>
+Date:   Sun Apr 14 22:54:35 2024 +0200
+
+     Call method filterOddLengthStrings in main class
+
+[33mcommit 2b2e1ec42e2b78d34e8c53de6ea6b8b18c948bb6[m
+Author: 0margarita0 <165337182+0margarita0@users.noreply.github.com>
+Date:   Sun Apr 14 22:34:48 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+[33mcommit c5020d0ca2838f6f1aaab3b3962d1f9ef192e8d2[m
+Author: 0margarita0 <165337182+0margarita0@users.noreply.github.com>
+Date:   Sun Apr 14 22:00:14 2024 +0200
+
+    Add starter code
